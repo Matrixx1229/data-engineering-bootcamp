@@ -1,0 +1,4 @@
+order_id,user_id,product,amount,status,created_at
+101,U001,Shoes,2999,delivered,2023-09-01 10:45:00
+102,U003,Headphones,1999,failed,2023-09-01 11:20:00
+103,U002,Laptop,58999,delivered,2023-09-01 14:00:00
